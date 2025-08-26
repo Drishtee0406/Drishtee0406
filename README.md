@@ -18,7 +18,7 @@
 
 ### 🧑‍🎓 Academic Projects  
 - Conducted literature reviews and data analysis for case studies in **Responsible AI & Urban Systems**  
-- Assisted in **environmental impact assessment modelling** using public datasets  
+- Worked on **environmental impact assessment modelling** using public datasets  
 - Built reports & visuals using **Python, Excel, Power BI**  
 - Designed an **ETL pipeline** for a fictional Hogwarts DB (Python + SQL)  
 - Developed an **early-stage diabetes prediction model** using a medical dataset in Python  
