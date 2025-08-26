@@ -2,7 +2,7 @@
 
 🎓 **MS in Information Systems @ CSULB**  
 💻 **Software QA & Developer | Data Analytics & ML Enthusiast**  
-🌍 Based in Irvine, CA  
+🌍 Based in Newport Beach, CA  
 
 ---
 
@@ -38,8 +38,8 @@
 ---
 
 ## 📫 Connect With Me  
-- 📧 Email: your-email@example.com  
-- 💼 [LinkedIn](https://www.linkedin.com/)  
+- 📧 Email: drishtee.gupta28@gmail.com 
+- 💼 [LinkedIn](https://www.linkedin.com/in/drishtee-gupta-724490129/) 
 - 🐙 [GitHub](https://github.com/Drishtee0406)  
 
 ---
